@@ -2,6 +2,7 @@
 
 ### Keçdiyimiz movzuları və həll etdiyimiz alqoritimləri videodan yenidən izləyib biliklərinizi bərkidin.
 
+
 Oxu üçün linklər:
 
 https://www.w3schools.com/cs/cs_variables.php
